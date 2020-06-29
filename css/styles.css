@@ -1,0 +1,28 @@
+body {
+  background-color: LightBlue;
+
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-width: 5px;
+border-color: grey;
+width: 5%
+}
+#heading {
+  color: BlueViolet;
+}
+
+.water {
+  color: green;
+}
+
+.rawafid {
+  color: blue;
+}
+.image2 {
+  position: relative;
+}
+h1 {
+  font-size: 40px;
+}
